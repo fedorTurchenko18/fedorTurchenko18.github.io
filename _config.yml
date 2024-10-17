@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "TBA"
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : "TBA"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "TBA"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
