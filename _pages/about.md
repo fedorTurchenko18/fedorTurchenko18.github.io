@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## Education
 - PhD - Technische Universität Berlin\
   October 2024 - Present
